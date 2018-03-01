@@ -1,0 +1,26 @@
+Mini Project – CS64
+
+
+Title of the Project: Pingr
+
+ 
+Brief Description: 
+ 
+Students in the current timeline rely on digital media to study in colleges and schools. With easy access to internet on multiple devices, it only makes sense to make education better by using electronic media for the purpose of distribution of materials required to progress in classes. This comes with a problem where the distribution of media is fragmented across multiple platforms – Google groups, Messaging apps, Email, Cloud storages and so on. This is what we aim to solve with the project. 
+
+We aim to provide few features of email and WhatsApp under one app. The objective of this project is to make sure it is easy for students to combine various platforms and media into one section, thus reducing confusion and the need to have many forms of media for various college activities. The app is designed primarily to act as a hub for various notifications in your class. To make sure you do not miss out on anything important, the final product aims at organizing your study related electronic media in a single place so they’re easily accessible.
+
+The target group of this project is clearly students of all ages. It is to make sure that the students are more easily informed about the important events and important days in an academic year. It includes important dates like dates of exams, public holidays, low attendances, assignment submission dates, new text books and their sources, warnings for low marks and so on. A secondary objective is to save the precious time of students. Time is a commodity that does not come by easy these days. Even more so for students who have to balance various aspects of their life in educational institutions. The service delivered by this app will save some time in looking for various materials over multiple platforms by optimizing them to appear under a single roof.
+
+Project Guide:  S. Rajarajeswari
+ 
+Team Leader: Aravind P Anil
+ 
+
+Team Details:
+
+
+SL. NO	NAME	USN	SIGNATURE
+1	ABHISHEK N	1MS15CS004	
+2	ABISHEK PADAKI	1MS15CS005	
+3	ARAVIND P ANIL	1MS15CS024	
