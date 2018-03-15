@@ -1,0 +1,43 @@
+Software Requirement Specification
+
+1.	Product Overview
+This document contains a general description of what the specific requirements of the application being developed needs. It is written from a developer’s point of view so that the end users can clearly understand what to expect from this project. It gives a viewpoint of the project that shows the specific technicalities and features needed by the end users and these very needs that must be implemented by us, the developers. 
+At the core of the application, the main features include a software that runs in the android environment and depends on firebase integration for server side notifications. A web portal is also included for easy management of files and notifications to avoid clutter.   
+
+2.	Hardware Requirements
+
+2.1	Android Ecosystem
+
+The application will only run on android environment as it is built using android studio. It is being targeted for a minimum SDK of API Level 19. The minimum version of android is 4.4.4 codenamed Android KitKat.
+ 
+2.2	Android RAM Requirements
+
+The application is fairly lightweight and will run on any phone released after the year 2010. Most android phones have a minimum RAM of 1 GB. This app being very light on load will run on any phone with more than 512 MB of RAM.
+
+2.3	Android Internal Storage Requirements
+
+The application will take a maximum of 25 MB of internal storage space. Most phones come with a minimum of 8 GB of internal storage. Hence, the application can run on any modern phone with ease.  
+
+2.4	Web Portal Requirements
+
+The web portal must run on a Web Browser. The portal web app is optimized for Google Chrome. Hence, a system – android, IOS or Computer than can run google chrome is required. Google Chrome is not the exclusive system. Safari, Mozilla can also be used. However, it is recommended to use Google Chrome.
+
+2.5	Web Portal Ram Requirements
+
+The Web portal being optimized for google chrome, will take up a fair amount of RAM. Google Chrome places a heavy load on RAM with the usage going up to 4 GB for 8 tabs. Our requirement is only one tab. Hence, a minimum of 2 GB RAM and a recommended specification of 4 GB RAM is required.
+
+3.	Software Requirements
+
+3.1	Android Ecosystem
+
+The application requires android ecosystem. It will not run on apple as it has been coded using Java and XML and not Swift. The app will not be ported to the apple ecosystem or the windows ecosystem. It is exclusive to android.  
+	
+3.2	Firebase
+
+The project relies on firebase integration for software. The Server-client notification system is built solely on firebase which combines with the web portal to provide a seamless experience for clients and end users alike.
+
+4.	Functional Requirements
+
+This section highlights the various features and functions the application provides
+
+
